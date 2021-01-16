@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Scaffold
-Template URL: https://bootstrapmade.com/scaffold-bootstrap-metro-style-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This template was made by Colorlib (https://colorlib.com)
+Please visit our website for more awesome templates, themes and tools. 
