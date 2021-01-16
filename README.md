@@ -1,2 +1,0 @@
-# WorkShare
-WorkShare Project
